@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm:*)",
+      "Bash(nvm list:*)",
+      "Bash(nvm use:*)",
+      "Bash(mv \"/c/Program Files/nodejs/node_modules/npm/\" \"/c/Program Files/nodejs/node_modules/npm-old/\")",
+      "Bash(mv \"/c/Program Files/nodejs/node_modules/.npm-GCzpLzkz/\" \"/c/Program Files/nodejs/node_modules/npm/\")",
+      "Skill(update-config)",
+      "Bash(echo:*)",
+      "Bash(where node:*)",
+      "Bash(where.exe node:*)",
+      "Bash(git config:*)"
+    ]
+  }
+}
