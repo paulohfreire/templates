@@ -10,7 +10,15 @@
       "Bash(echo:*)",
       "Bash(where node:*)",
       "Bash(where.exe node:*)",
-      "Bash(git config:*)"
+      "Bash(git config:*)",
+      "Bash(ng version:*)",
+      "WebSearch",
+      "Bash(netstat -ano)",
+      "Bash(findstr :4200)",
+      "Bash(tasklist)",
+      "Bash(findstr 16448)",
+      "Bash(ps -p 16448 -o pid,ppid,cmd)",
+      "Bash(curl -s http://localhost:4200)"
     ]
   }
 }
